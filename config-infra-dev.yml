@@ -8,7 +8,7 @@ variables:
 
   namespace: aspat #Note: A namespace with many characters will cause storage account creation to fail due to storage account names having a limit of 24 characters.
   postfix: mlops
-  location: westeu
+  location: westeurope
 
   environment: dev
   enable_aml_computecluster: true
